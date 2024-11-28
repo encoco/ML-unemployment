@@ -34,7 +34,7 @@ GDP,최저임금,청년인구를 외부 변수로 두고 청년 실업률을 이
 
 
 ## ⚙ 기술 스택
-## Development Tools
+#### Development Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Data Processing
