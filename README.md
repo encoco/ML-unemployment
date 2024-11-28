@@ -1,6 +1,6 @@
 <div align="center">
 
-SARIMA,ARIMA를 이용한 미래 청년 실업률 예측
+SARIMA,ARIMA를 이용한 미래 청년 실업률 예측 <br/>
 <img src="https://img.shields.io/badge/프로젝트 기간-2024.07~2024.11-green?style=flat&logoColor=white" />
 </div>
 
@@ -25,6 +25,7 @@ GDP,최저임금,청년인구를 외부 변수로 두고 청년 실업률을 이
 
 
 <br/>
+
 ![sarima_로그](https://github.com/user-attachments/assets/b91e621f-e09f-477a-88b9-a51f49800d19)
 
 - GDP, 청년인구, 최저임금 데이터를 표준화하고 로그변환하여 전처리
