@@ -24,26 +24,29 @@ GDP,최저임금,청년인구를 외부 변수로 두고 청년 실업률을 이
 ![image](https://github.com/user-attachments/assets/6e680907-1ee4-465d-9f41-79769bbb33b8)
 
 
+<br/>
+![sarima_로그](https://github.com/user-attachments/assets/b91e621f-e09f-477a-88b9-a51f49800d19)
 
 - GDP, 청년인구, 최저임금 데이터를 표준화하고 로그변환하여 전처리
 - ARIMA 모델에 계절성과 외부요인(GDP, 청년인구, 최저임금)을 추가한 SARIMAX 모델 사용
 
 
 
-### Development Tools
+## ⚙ 기술 스택
+## Development Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Data Processing
+#### Data Processing
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Machine Learning & Statistical Analysis
+#### Machine Learning & Statistical Analysis
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-2196F3?style=for-the-badge&logo=python&logoColor=white)
 
-### Visualization
+#### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-385F73?style=for-the-badge&logo=python&logoColor=white)
 
-### Version Control
+#### Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
